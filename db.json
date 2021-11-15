@@ -1,1 +1,268 @@
-{"Root":{"Licenses":[{"license_id":13622,"LicenseKey":"WFVHSMCIAAAABV65XUKQ","LicenseType":0,"ProService":false,"DebugVersion":"0","MaxVersion":"17.0.4000","Active":false,"ProductName":"TENADO METALL","ProductId":18,"ExpirationDate":1861833600,"ActivationDate":null,"RegInfo":[{"15":{"reg_name":"TENADO CAD 3D 15 x64","product_name":"TENADOCAD3D","full_path":""}},{"16":{"reg_name":"TENADO CAD 3D 16","product_name":"TENADOCAD3D","full_path":"SOFTWARE\\Top Systems\\TENADO CAD 3D 16\\Ger"}},{"17":{"reg_name":"TENADO CAD 3D 17","product_name":"TENADOCAD3D","full_path":"SOFTWARE\\Top Systems\\TENADO CAD 3D 17\\Ger"}}],"Reg_name":"TENADO CAD 3D 17","Product_name":"TENADOCAD3D","Full_path":"SOFTWARE\\Top Systems\\TENADO CAD 3D 17\\Ger","Link":"http...","Size":123,"Checksum":"abcd","Description":"abc","Modules":[{"id":568519,"license_id":8515,"module_id":109,"priority":9999,"is_new":1,"max_version":"1.0.2007","name":"TENADO_ScanUndAufmaß","speaking_name":"TENADO Scan und Aufmaß","reg_name":"TENADO_ScanUndAufmaß","version":"1.0.2007","active":1,"display_sc":1,"cat":1,"module_priority":9999,"important":0,"lang":"","stand_alone":0,"file_type":3,"advanced":0,"x86":0,"installer_state":1,"category_name":"Produkt","category_priority":1,"major":1,"full_path":"SOFTWARE\\TENADO\\TENADO Scan und Aufmass 1","link":null,"checksum":null,"dependencies":[{"1.0.2007":{"min_version":"17.0.0000","max_version":"17.9.9999","opt":0,"product_id":26}}],"RegInfo":[{"1":{"reg_name":"TENADO Scan und Aufmass 1","module_name":"TENADO_ScanUndAufmaß","full_path":"SOFTWARE\\TENADO\\TENADO Scan und Aufmass 1"}}]},{"id":568519,"license_id":8515,"module_id":109,"priority":9999,"is_new":1,"max_version":"1.0.2007","name":"TENADO_ScanUndAufmaß","speaking_name":"TENADO Scan und Aufmaß","reg_name":"TENADO_ScanUndAufmaß","version":"1.0.2007","active":1,"display_sc":1,"cat":1,"module_priority":9999,"important":0,"lang":"","stand_alone":0,"file_type":3,"advanced":0,"x86":0,"installer_state":1,"category_name":"Bibliotheken","category_priority":1,"major":1,"full_path":"SOFTWARE\\TENADO\\TENADO Scan und Aufmass 1","link":null,"checksum":null,"dependencies":[{"1.0.2007":{"min_version":"17.0.0000","max_version":"17.9.9999","opt":0,"product_id":26}}],"RegInfo":[{"1":{"reg_name":"TENADO Scan und Aufmass 1","module_name":"TENADO_ScanUndAufmaß","full_path":"SOFTWARE\\TENADO\\TENADO Scan und Aufmass 1"}}]},{"id":568519,"license_id":8515,"module_id":109,"priority":9999,"is_new":1,"max_version":"1.0.2007","name":"TENADO_ScanUndAufmaß","speaking_name":"TENADO Scan und Aufmaß","reg_name":"TENADO_ScanUndAufmaß","version":"1.0.2007","active":1,"display_sc":1,"cat":1,"module_priority":9999,"important":0,"lang":"","stand_alone":0,"file_type":3,"advanced":0,"x86":0,"installer_state":1,"category_name":"Schulungsunterlagen","category_priority":1,"major":1,"full_path":"SOFTWARE\\TENADO\\TENADO Scan und Aufmass 1","link":null,"checksum":null,"dependencies":[{"1.0.2007":{"min_version":"17.0.0000","max_version":"17.9.9999","opt":0,"product_id":26}}],"RegInfo":[{"1":{"reg_name":"TENADO Scan und Aufmass 1","module_name":"TENADO_ScanUndAufmaß","full_path":"SOFTWARE\\TENADO\\TENADO Scan und Aufmass 1"}}]}]},{"license_id":14021,"LicenseKey":"Q7ALOFCTAAAABL2BNBOA","LicenseType":1,"ProService":true,"DebugVersion":"22.9.9999","MaxVersion":"22.1.8181","Active":true,"ProductName":"TENADO PROTECT","ProductId":9,"ExpirationDate":1861833600,"ActivationDate":1619714152,"RegInfo":[{"14":{"reg_name":"TENADOPROTECT14","product_name":"TENADOPROTECT","full_path":""}},{"15":{"reg_name":"TENADOPROTECT15","product_name":"TENADOPROTECT","full_path":""}},{"17":{"reg_name":"TENADOPROTECT17","product_name":"TENADOPROTECT","full_path":""}},{"19":{"reg_name":"TENADOPROTECT19","product_name":"TENADOPROTECT","full_path":"SOFTWARE\\WOW6432Node\\TENADO\\TENADOPROTECT19\\Products\\TENADOPROTECT19"}},{"22":{"reg_name":"TENADOPROTECT22","product_name":"TENADOPROTECT","full_path":"SOFTWARE\\WOW6432Node\\TENADO\\TENADOPROTECT22\\Products\\TENADOPROTECT22"}}],"Reg_name":"TENADOPROTECT22","Product_name":"TENADOPROTECT","Full_path":"SOFTWARE\\WOW6432Node\\TENADO\\TENADOPROTECT22\\Products\\TENADOPROTECT22","Link":"http...","Size":123,"Checksum":"abcd","Description":"abc","Modules":[{"id":557791,"license_id":1123,"module_id":112,"priority":9999,"is_new":0,"max_version":"19","name":"TENADO_HK_Pandemie_Symbolik","speaking_name":"TENADO Pandemie-Symbolik","reg_name":"TENADO_HK_Pandemie_Symbolik","version":"19","active":1,"display_sc":1,"cat":9,"module_priority":9999,"important":0,"lang":"de","stand_alone":0,"file_type":3,"advanced":0,"x86":0,"installer_state":0,"category_name":"Bibliotheken","category_priority":300,"major":null,"full_path":null,"link":null,"checksum":null,"dependencies":[{"19":{"min_version":"19.6.8240","max_version":"22.9.9999","opt":0,"product_id":-1}}],"RegInfo":[]}]},{"license_id":14022,"LicenseKey":"O2R4WESYAAAAAQQ74MHA","LicenseType":1,"ProService":false,"DebugVersion":"22.9.9999","MaxVersion":"22.1.8121","Active":true,"ProductName":"TENADO CAD 2D","ProductId":10,"ExpirationDate":1861833600,"ActivationDate":1619714071,"RegInfo":[{"14":{"reg_name":"TENADOCAD14","product_name":"TENADOCAD","full_path":""}},{"17":{"reg_name":"TENADOCAD17","product_name":"TENADOCAD","full_path":""}},{"19":{"reg_name":"TENADOCAD19","product_name":"TENADOCAD","full_path":"SOFTWARE\\WOW6432Node\\TENADO\\TENADOCAD19\\Products\\TENADOCAD19"}},{"22":{"reg_name":"TENADOCAD22","product_name":"TENADOCAD","full_path":"SOFTWARE\\WOW6432Node\\TENADO\\TENADOCAD22\\Products\\TENADOCAD22"}}],"Reg_name":"TENADOCAD22","Product_name":"TENADOCAD","Full_path":"SOFTWARE\\WOW6432Node\\TENADO\\TENADOCAD22\\Products\\TENADOCAD22","Link":"http...","Size":123,"Checksum":"abcd","Description":"abc","Modules":[{"id":259714,"license_id":1124,"module_id":87,"priority":9999,"is_new":0,"max_version":"19.0.0002","name":"TENADO_HK_SUEDMETALL_2D","speaking_name":"TENADO_HK_SUEDMETALL_2D","reg_name":"TENADO_HK_SUEDMETALL_2D","version":"19.0.0002","active":1,"display_sc":1,"cat":3,"module_priority":9999,"important":0,"lang":"de","stand_alone":0,"file_type":3,"advanced":0,"x86":0,"installer_state":0,"category_name":"Herstellerkataloge","category_priority":300,"major":null,"full_path":null,"link":null,"checksum":null,"dependencies":[{"19":{"min_version":"19.0.0000","max_version":"22.9.9999","opt":0,"product_id":14}},{"19.0.0001":{"min_version":"19.0.0000","max_version":"22.9.9999","opt":0,"product_id":14}},{"19.0.0002":{"min_version":"19.0.0000","max_version":"22.9.9999","opt":0,"product_id":11}}],"RegInfo":[]}]},{"license_id":14023,"LicenseKey":"ZIGRKXKVAAAABQCJWQOA","LicenseType":1,"ProService":false,"DebugVersion":"22.9.9999","MaxVersion":"22.1.8180","Active":true,"ProductName":"TENADO METALL 2D","ProductId":11,"ExpirationDate":1861833600,"ActivationDate":1619714119,"RegInfo":[{"14":{"reg_name":"TENADOMETALL14","product_name":"TENADOMETALL","full_path":""}},{"17":{"reg_name":"TENADOMETALL17","product_name":"TENADOMETALL","full_path":""}},{"19":{"reg_name":"TENADOMETALL19","product_name":"TENADOMETALL","full_path":"SOFTWARE\\WOW6432Node\\TENADO\\TENADOMETALL19\\Products\\TENADOMETALL19"}},{"22":{"reg_name":"TENADOMETALL22","product_name":"TENADOMETALL","full_path":"SOFTWARE\\WOW6432Node\\TENADO\\TENADOMETALL22\\Products\\TENADOMETALL22"}}],"Reg_name":"TENADOMETALL22","Product_name":"TENADOMETALL","Full_path":"SOFTWARE\\WOW6432Node\\TENADO\\TENADOMETALL22\\Products\\TENADOMETALL22","Link":"http...","Size":123,"Checksum":"abcd","Description":"abc","Modules":[{"id":259714,"license_id":1124,"module_id":87,"priority":9999,"is_new":0,"max_version":"19.0.0002","name":"TENADO_HK_SUEDMETALL_2D","speaking_name":"TENADO_HK_SUEDMETALL_2D","reg_name":"TENADO_HK_SUEDMETALL_2D","version":"19.0.0002","active":1,"display_sc":1,"cat":3,"module_priority":9999,"important":0,"lang":"de","stand_alone":0,"file_type":3,"advanced":0,"x86":0,"installer_state":0,"category_name":"Produkt","category_priority":300,"major":null,"full_path":null,"link":null,"checksum":null,"dependencies":[{"19":{"min_version":"19.0.0000","max_version":"22.9.9999","opt":0,"product_id":14}},{"19.0.0001":{"min_version":"19.0.0000","max_version":"22.9.9999","opt":0,"product_id":14}},{"19.0.0002":{"min_version":"19.0.0000","max_version":"22.9.9999","opt":0,"product_id":11}}],"RegInfo":[]},{"id":259714,"license_id":1124,"module_id":87,"priority":9999,"is_new":0,"max_version":"19.0.0002","name":"TENADO_HK_SUEDMETALL_2D 1","speaking_name":"TENADO_HK_SUEDMETALL_2D 1","reg_name":"TENADO_HK_SUEDMETALL_2D","version":"19.0.0002","active":1,"display_sc":1,"cat":3,"module_priority":9999,"important":0,"lang":"de","stand_alone":0,"file_type":3,"advanced":0,"x86":0,"installer_state":0,"category_name":"Produkt","category_priority":300,"major":null,"full_path":null,"link":null,"checksum":null,"dependencies":[{"19":{"min_version":"19.0.0000","max_version":"22.9.9999","opt":0,"product_id":14}},{"19.0.0001":{"min_version":"19.0.0000","max_version":"22.9.9999","opt":0,"product_id":14}},{"19.0.0002":{"min_version":"19.0.0000","max_version":"22.9.9999","opt":0,"product_id":11}}],"RegInfo":[]},{"id":259714,"license_id":1124,"module_id":87,"priority":9999,"is_new":0,"max_version":"19.0.0002","name":"TENADO_HK_SUEDMETALL_2D 2","speaking_name":"TENADO_HK_SUEDMETALL_2D 2","reg_name":"TENADO_HK_SUEDMETALL_2D","version":"19.0.0002","active":1,"display_sc":1,"cat":3,"module_priority":9999,"important":0,"lang":"de","stand_alone":0,"file_type":3,"advanced":0,"x86":0,"installer_state":0,"category_name":"Produkt","category_priority":300,"major":null,"full_path":null,"link":null,"checksum":null,"dependencies":[{"19":{"min_version":"19.0.0000","max_version":"22.9.9999","opt":0,"product_id":14}},{"19.0.0001":{"min_version":"19.0.0000","max_version":"22.9.9999","opt":0,"product_id":14}},{"19.0.0002":{"min_version":"19.0.0000","max_version":"22.9.9999","opt":0,"product_id":11}}],"RegInfo":[]}]}]}}
+{
+  "Root": {
+    "Licenses": [
+      {
+        "license_id": 14023,
+        "LicenseKey": "ZIGRKXKVAAAABQCJWQOA",
+        "LicenseType": 1,
+        "ProService": false,
+        "DebugVersion": "22.9.9999",
+        "MaxVersion": "22.1.8180",
+        "Active": true,
+        "ProductName": "TENADO METALL 2D",
+        "ProductId": 11,
+        "ExpirationDate": 1861833600,
+        "ActivationDate": 1619714119,
+        "RegInfo": [
+          {
+            "14": {
+              "reg_name": "TENADOMETALL14",
+              "product_name": "TENADOMETALL",
+              "full_path": ""
+            }
+          },
+          {
+            "17": {
+              "reg_name": "TENADOMETALL17",
+              "product_name": "TENADOMETALL",
+              "full_path": ""
+            }
+          },
+          {
+            "19": {
+              "reg_name": "TENADOMETALL19",
+              "product_name": "TENADOMETALL",
+              "full_path": "SOFTWARE\\WOW6432Node\\TENADO\\TENADOMETALL19\\Products\\TENADOMETALL19"
+            }
+          },
+          {
+            "22": {
+              "reg_name": "TENADOMETALL22",
+              "product_name": "TENADOMETALL",
+              "full_path": "SOFTWARE\\WOW6432Node\\TENADO\\TENADOMETALL22\\Products\\TENADOMETALL22"
+            }
+          }
+        ],
+        "Reg_name": "TENADOMETALL22",
+        "Product_name": "TENADOMETALL",
+        "Full_path": "SOFTWARE\\WOW6432Node\\TENADO\\TENADOMETALL22\\Products\\TENADOMETALL22",
+        "Link": "http...",
+        "Size": 123,
+        "Checksum": "abcd",
+        "Description": "abc",
+        "Modules": [
+          {
+            "id": 259714,
+            "license_id": 1124,
+            "module_id": 87,
+            "priority": 9999,
+            "is_new": 0,
+            "max_version": "19.0.0002",
+            "name": "TENADO_HK_SUEDMETALL_2D",
+            "speaking_name": "TENADO_HK_SUEDMETALL_2D",
+            "reg_name": "TENADO_HK_SUEDMETALL_2D",
+            "version": "19.0.0002",
+            "active": 1,
+            "display_sc": 1,
+            "cat": 3,
+            "module_priority": 9999,
+            "important": 0,
+            "lang": "de",
+            "stand_alone": 0,
+            "file_type": 3,
+            "advanced": 0,
+            "x86": 0,
+            "installer_state": 0,
+            "category_name": "Herstellerkataloge",
+            "category_priority": 300,
+            "major": null,
+            "full_path": null,
+            "link": null,
+            "checksum": null,
+            "dependencies": [
+              {
+                "19": {
+                  "min_version": "19.0.0000",
+                  "max_version": "22.9.9999",
+                  "opt": 0,
+                  "product_id": 14
+                }
+              },
+              {
+                "19.0.0001": {
+                  "min_version": "19.0.0000",
+                  "max_version": "22.9.9999",
+                  "opt": 0,
+                  "product_id": 14
+                }
+              },
+              {
+                "19.0.0002": {
+                  "min_version": "19.0.0000",
+                  "max_version": "22.9.9999",
+                  "opt": 0,
+                  "product_id": 11
+                }
+              }
+            ],
+            "RegInfo": []
+          }
+        ]
+      },
+      {
+        "license_id": 14024,
+        "LicenseKey": "33VFI52MAAAAAOTATIKA",
+        "LicenseType": 1,
+        "ProService": true,
+        "DebugVersion": "22.9.9999",
+        "MaxVersion": "22.1.8136",
+        "Active": true,
+        "ProductName": "TENADO TRAFFIC",
+        "ProductId": 13,
+        "ExpirationDate": 1861833600,
+        "ActivationDate": 1619714187,
+        "RegInfo": [
+          {
+            "14": {
+              "reg_name": "TENADOTRAFFIC14",
+              "product_name": "TENADOTRAFFIC",
+              "full_path": ""
+            }
+          },
+          {
+            "15": {
+              "reg_name": "TENADOTRAFFIC15",
+              "product_name": "TENADOTRAFFIC",
+              "full_path": ""
+            }
+          },
+          {
+            "17": {
+              "reg_name": "TENADOTRAFFIC17",
+              "product_name": "TENADOTRAFFIC",
+              "full_path": ""
+            }
+          },
+          {
+            "19": {
+              "reg_name": "TENADOTRAFFIC19",
+              "product_name": "TENADOTRAFFIC",
+              "full_path": "SOFTWARE\\WOW6432Node\\TENADO\\TENADOTRAFFIC19\\Products\\TENADOTRAFFIC19"
+            }
+          },
+          {
+            "22": {
+              "reg_name": "TENADOTRAFFIC22",
+              "product_name": "TENADOTRAFFIC",
+              "full_path": "SOFTWARE\\WOW6432Node\\TENADO\\TENADOTRAFFIC22\\Products\\TENADOTRAFFIC22"
+            }
+          }
+        ],
+        "Reg_name": "TENADOTRAFFIC22",
+        "Product_name": "TENADOTRAFFIC",
+        "Full_path": "SOFTWARE\\WOW6432Node\\TENADO\\TENADOTRAFFIC22\\Products\\TENADOTRAFFIC22",
+        "Link": "http...",
+        "Size": 123,
+        "Checksum": "abcd",
+        "Description": "abc",
+        "Modules": [
+          {
+            "id": 201976,
+            "license_id": 11176,
+            "module_id": 75,
+            "priority": 500,
+            "is_new": 0,
+            "max_version": "19.6.8034",
+            "name": "TENADOPARTS2D",
+            "speaking_name": "TENADO_PARTS_2D",
+            "reg_name": "TENADOPARTS2D",
+            "version": "19.6.8034",
+            "active": 1,
+            "display_sc": 1,
+            "cat": 1,
+            "module_priority": 500,
+            "important": 0,
+            "lang": "",
+            "stand_alone": 0,
+            "file_type": 3,
+            "advanced": 1,
+            "x86": null,
+            "installer_state": 1,
+            "category_name": "Produkt",
+            "category_priority": 1,
+            "major": 11,
+            "full_path": "",
+            "link": null,
+            "checksum": null,
+            "dependencies": [
+              {
+                "19.1.8384": {
+                  "min_version": "19.0.0000",
+                  "max_version": "19.9.9999",
+                  "opt": 0,
+                  "product_id": 13
+                }
+              },
+              {
+                "19.1.8491": {
+                  "min_version": "",
+                  "max_version": "",
+                  "opt": 0,
+                  "product_id": -1
+                }
+              },
+              {
+                "19.3.8021": {
+                  "min_version": "19.2.0000",
+                  "max_version": "19.9.9999",
+                  "opt": 0,
+                  "product_id": 13
+                }
+              },
+              {
+                "19.3.8151": {
+                  "min_version": "19.3.0000",
+                  "max_version": "19.9.9999",
+                  "opt": 0,
+                  "product_id": 13
+                }
+              },
+              {
+                "19.3.8189": {
+                  "min_version": "19.3.0000",
+                  "max_version": "19.9.9999",
+                  "opt": 0,
+                  "product_id": 13
+                }
+              },
+              {
+                "19.6.8034": {
+                  "min_version": "19.0.0000",
+                  "max_version": "22.9.9999",
+                  "opt": 0,
+                  "product_id": 13
+                }
+              }
+            ],
+            "RegInfo": [
+              {
+                "11": {
+                  "reg_name": "TENADOPARTS2D",
+                  "module_name": "TENADOPARTS2D",
+                  "full_path": ""
+                }
+              },
+              {
+                "19": {
+                  "reg_name": "TENADOPARTS2D19",
+                  "module_name": "TENADOPARTS2D",
+                  "full_path": "SOFTWARE\\WOW6432Node\\TENADO\\TenadoZusatzmodule\\Products\\TENADOPARTS2D19"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
